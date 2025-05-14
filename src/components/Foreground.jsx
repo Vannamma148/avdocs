@@ -29,18 +29,7 @@ export default function Foreground() {
       tagColor: "yellow",
     },
   },
-  {
-    desc: "Client Feedback - Design Draft",
-    fileSize: "0.9mb",
-    close: true,
-    progress: 0,
-    fileUrl: "/files/client-feedback.pdf",
-    tag: {
-      isOpen: false,
-      tagTitle: "Closed",
-      tagColor: "gray",
-    },
-  },
+ 
   {
     desc: "Product Roadmap 2025",
     fileSize: "1.7mb",
@@ -51,18 +40,6 @@ export default function Foreground() {
       isOpen: true,
       tagTitle: "Completed",
       tagColor: "green",
-    },
-  },
-  {
-    desc: "Research Analysis - Competitor Insights",
-    fileSize: "3.1mb",
-    close: false,
-    progress: 25,
-    fileUrl: "/files/research-analysis.pdf",
-    tag: {
-      isOpen: true,
-      tagTitle: "Pending",
-      tagColor: "red",
     },
   },
   {
