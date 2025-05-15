@@ -22,7 +22,7 @@ export default function Foreground() {
     fileSize: "2.3mb",
     close: false,
     progress: 75,
-    fileUrl: "/files/financial-report-q1.pdf",
+    fileUrl: "/Financial Report - Q1 2025.pdf",
     tag: {
       isOpen: true,
       tagTitle: "Review",
@@ -35,7 +35,7 @@ export default function Foreground() {
     fileSize: "1.7mb",
     close: false,
     progress: 100,
-    fileUrl: "/files/product-roadmap.pdf",
+    fileUrl: "/Product Roadmap 2025.pdf",
     tag: {
       isOpen: true,
       tagTitle: "Completed",
