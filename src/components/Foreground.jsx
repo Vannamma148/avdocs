@@ -42,66 +42,7 @@ export default function Foreground() {
       tagColor: "green",
     },
   },
-  {
-    desc: "User Personas - Product Launch",
-    fileSize: "0.6mb",
-    close: false,
-    progress: 60,
-    fileUrl: "/files/user-personas.pdf",
-    tag: {
-      isOpen: true,
-      tagTitle: "Review",
-      tagColor: "blue",
-    },
-  },
-  {
-    desc: "Content Plan - Q2 2025",
-    fileSize: "1.0mb",
-    close: false,
-    progress: 90,
-    fileUrl: "/files/content-plan.pdf",
-    tag: {
-      isOpen: true,
-      tagTitle: "Review",
-      tagColor: "green",
-    },
-  },
-  {
-    desc: "Monthly Budget Report - April",
-    fileSize: "1.8mb",
-    close: true,
-    progress: 0,
-    fileUrl: "/files/monthly-budget.pdf",
-    tag: {
-      isOpen: false,
-      tagTitle: "Archived",
-      tagColor: "gray",
-    },
-  },
-  {
-    desc: "New Hire Onboarding Guide",
-    fileSize: "0.4mb",
-    close: false,
-    progress: 30,
-    fileUrl: "/files/onboarding-guide.pdf",
-    tag: {
-      isOpen: true,
-      tagTitle: "Draft",
-      tagColor: "yellow",
-    },
-  },
-  {
-    desc: "Sales Pitch Deck - Q2",
-    fileSize: "2.5mb",
-    close: false,
-    progress: 50,
-    fileUrl: "/files/sales-pitch.pdf",
-    tag: {
-      isOpen: true,
-      tagTitle: "Progress",
-      tagColor: "blue",
-    },
-  },
+  
 ];
 
   return (
