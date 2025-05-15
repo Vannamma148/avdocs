@@ -29,7 +29,18 @@ export default function Foreground() {
       tagColor: "yellow",
     },
   },
- 
+ {
+    desc: "Financial Report Q1 2024",
+    fileSize: "2.3mb",
+    close: false,
+    progress: 75,
+    fileUrl: "/Financial Report - Q1 2025.pdf",
+    tag: {
+      isOpen: true,
+      tagTitle: "Review",
+      tagColor: "yellow",
+    },
+  },
   {
     desc: "Product Roadmap 2025",
     fileSize: "1.7mb",
