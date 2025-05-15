@@ -107,7 +107,7 @@ export default function Foreground() {
   return (
     <div ref={ref} className="w-full p-5 h-full bg-amber-200/10 fixed z-20 top-0 left-0 flex justify-center gap-5 flex-wrap">
       {data.map((item) => (
-        <Card key={item.id} data={item} />
+        <Card key={item.id} data={item} reference={ref}/>
       ))}
     </div>
   );
